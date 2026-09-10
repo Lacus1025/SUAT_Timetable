@@ -38,6 +38,7 @@ SUAT 课表是一款帮助深圳理工大学同学查看课程安排的应用。
 | 系统 | 教程 |
 | ---- | ---- |
 | ColorOS 16 | [点击查看](./widget_guide/color_os_16/index.md) |
+| HyperOS 4.0 | [点击查看](./widget_guide/HyperOS_4.0/index.md) |
 
 ## 温馨提示
 
